@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/WebContent/admin/index.jsp" value="file://$PROJECT_DIR$/WebContent/admin" />
+        <entry key="file://$PROJECT_DIR$/WebContent/frontend/index.jsp" value="file://$PROJECT_DIR$/WebContent/frontend" />
+        <entry key="file://$PROJECT_DIR$/WebContent/frontend/kup_kod.jsp" value="file://$PROJECT_DIR$/WebContent/frontend" />
+        <entry key="file://$PROJECT_DIR$/WebContent/frontend/kupiony_kod.jsp" value="file://$PROJECT_DIR$/WebContent/frontend" />
+        <entry key="file://$PROJECT_DIR$/WebContent/frontend/user_form.jsp" value="file://$PROJECT_DIR$/WebContent/frontend" />
+        <entry key="file://$PROJECT_DIR$/WebContent/frontend/user_login_screen.jsp" value="file://$PROJECT_DIR$/WebContent/frontend" />
+      </map>
+    </option>
+  </component>
+</project>
